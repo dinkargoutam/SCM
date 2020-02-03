@@ -1,0 +1,2 @@
+# SCM
+School Management System
